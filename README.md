@@ -1,5 +1,7 @@
 # last-fm-rs
 
+**this fork's central feature is the ability to specify any last.fm-compatible scrobbler. it's depended on by [dotsong](https://github.com/thrzl/dotsong).**
+
 Rust client library for the Last.fm API, focused on desktop application scrobbling.
 
 Supports both Last.fm's official API and custom token-based scrobbling servers.
